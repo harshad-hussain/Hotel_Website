@@ -1,0 +1,9 @@
+.cart-banner{
+    height: 400px;
+}
+
+.cart-banner h3{
+        display: flex;
+        justify-content: center;
+        
+}
